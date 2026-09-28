@@ -1,5 +1,5 @@
-*                                   @org-epsilon/sm-po1-miguel @org-epsilon/codeowners_(cw)
-/src/                               @org-epsilon/sm-po1-miguel @org-epsilon/codeowners_(cw)
-/docs                               @org-epsilon/sm-po1-miguel @org-epsilon/codeowners_(cw)
-/.github/                           @org-epsilon/codeowners_(cw)
-/docs/rubrica-evaluacion.md         @org-epsilon/codeowners_(cw)
+*                                   @org-epsilon/sm-po1-miguel @org-epsilon/sm-po1-miguel
+/src/                               @org-epsilon/sm-po1-miguel @org-epsilon/sm-po1-miguel
+/docs                               @org-epsilon/sm-po1-miguel @org-epsilon/sm-po1-miguel
+/.github/                           @org-epsilon/sm-po1-miguel
+/docs/rubrica-evaluacion.md         @org-epsilon/sm-po1-miguel
